@@ -1,0 +1,2 @@
+#get a list of AD groups for a specific user, source : https://docs.microsoft.com/en-us/powershell/module/activedirectory/get-adprincipalgroupmembership?view=windowsserver2022-ps 
+Get-ADPrincipalGroupMembership -Identity <enter User>
